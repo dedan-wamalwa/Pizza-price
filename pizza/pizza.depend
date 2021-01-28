@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1572943270 source:c:\users\dedan\desktop\c++ programs\pizza\main.cpp
+	<iostream>
+	<string>
+
